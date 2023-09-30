@@ -1,6 +1,6 @@
-# Quick Code Academy - Web Development Tutorials
+# Quick Code Academy - Web Development Tutorial
 
-Welcome to the Quick Code Academy GitHub repository! Here, you'll find resources related to our YouTube channel, where we create video tutorials on web development. Our content primarily focuses on HTML, CSS, JavaScript, and Angular.
+Welcome to the Quick Code Academy GitHub repository! Here, you'll find resources related to our YouTube channel, where we create video tutorials on web development. Our content primarily focuses on HTML, CSS, JavaScript, and Angular
 
 https://www.youtube.com/@quickcodeacademy
 
